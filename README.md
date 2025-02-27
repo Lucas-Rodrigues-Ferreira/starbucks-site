@@ -1,2 +1,2 @@
-# starbucks-site
+# Landing page starbucks
 Desenvolvi uma landing page para o Starbucks
